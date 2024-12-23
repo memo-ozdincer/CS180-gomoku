@@ -1,5 +1,8 @@
 # Gomoku Game AI
 **October 2024**
+This implementation passed all 100 test cases 
+
+![image](https://github.com/user-attachments/assets/33423c19-aca4-4c61-a6e7-6662d45597cf)
 
 ## Project Overview
 An implementation of the Gomoku (Five in a Row) game with an AI opponent. The project includes a game board implementation and an AI engine that uses strategic scoring to determine optimal moves.

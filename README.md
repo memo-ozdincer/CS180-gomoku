@@ -1,5 +1,5 @@
 # Gomoku Game AI
-**Due Date: Fall 2023**
+**October 2024**
 
 ## Project Overview
 An implementation of the Gomoku (Five in a Row) game with an AI opponent. The project includes a game board implementation and an AI engine that uses strategic scoring to determine optimal moves.
